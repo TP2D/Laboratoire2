@@ -32,3 +32,4 @@ do
 done
 echo "
 La valeur max est de $max"
+#J'ai changer de couleur
